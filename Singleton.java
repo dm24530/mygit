@@ -1,4 +1,4 @@
-//单例模式对象
+//单例模式
 public class Singleton {
     private Singleton(){
     }
